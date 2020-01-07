@@ -1,0 +1,20 @@
+h1 {
+  color: blue;
+  font-size: 40px;
+  font-family: cursive;
+  text-decoration-line: underline;
+}
+
+p {
+  color: gray;
+}
+
+li {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+body {
+  background-color: skyblue;
+  text-align: center;
+}
