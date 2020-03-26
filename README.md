@@ -1,7 +1,7 @@
 # Bougie Island
-A website to plan your next vacation.
+A website about booking a trip to a secretive getaway island.
 
-## By Keturah Howard and Abe Ybarra
+## By Christine Augustine and Rachel Schieferstein
 
 ## Desciption
 An HTML website about a private island where you can look at photos, accommodations, contact info, travel arangements, and more.
